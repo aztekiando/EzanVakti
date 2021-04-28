@@ -12,3 +12,6 @@ https://www.diyanet.gov.tr/tr-TR/
 
 
 aztekiaNdo tarafından 💓 ile hazırlandı
+
+
+![Alt Text](https://i.resmim.net/i/ezanVakti.jpg)
