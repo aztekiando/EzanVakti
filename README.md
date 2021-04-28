@@ -9,3 +9,6 @@ Günün Ayeti Bölümü;
 https://www.diyanet.gov.tr/tr-TR/
 
 üzerinden çekilmektedir.
+
+
+aztekiaNdo tarafından 💓 ile hazırlandı
