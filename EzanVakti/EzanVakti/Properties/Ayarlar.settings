@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Ayar" GeneratedClassName="Ayarlar">
+  <Profiles />
+  <Settings>
+    <Setting Name="Sehir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://namazvakitleri.diyanet.gov.tr/tr-TR/9146/adana-icin-namaz-vakti</Value>
+    </Setting>
+    <Setting Name="Bildirim" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="bildirimSesi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bildirim.mp3</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
